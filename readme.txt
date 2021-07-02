@@ -15,3 +15,10 @@ After modification we have to do 3 things:
 1. Step: git add
 2. step: git commit
 3. Step: git push 
+
+Git branching command:
+----------------------
+To see branches => git branch
+To create new branch => git branch branch-name
+To switch branch => git checkout branch-name
+To merge changes => git merge branch-name
